@@ -1,0 +1,2 @@
+# Anti-Theft-and-Tow-Alert-System
+Theft alert system along with tow alert system and face recognition system. Theft alert system uses vibration sensor to detect the tempering to the vehicle and PIR sensor to detect the human in its vicinity. Tow alert system to give an alert on the mail when the car is being towed. Face recognition system to detect the new driver face other then the faces registered in the data bases.
